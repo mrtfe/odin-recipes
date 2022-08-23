@@ -1,0 +1,10 @@
+img {
+  max-width: 20%;
+  border-radius: 20px;
+  padding-bottom: 20px;
+}
+
+.recipe {
+  display: flex;
+  flex-direction: column;
+}
