@@ -7,7 +7,8 @@
 }
 
 body {
-  background-color: rgb(219, 233, 245);
+  background-color: rgba(219, 233, 245, 0.603);
+  margin-left: 50px;
 }
 
 .time-to-make {
@@ -32,4 +33,9 @@ body {
 
 h3 {
   padding-top: 0px;
+}
+
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
