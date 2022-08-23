@@ -1,5 +1,5 @@
 img {
-  max-width: 20%;
+  max-width: 100%;
   border-radius: 20px;
   padding-bottom: 20px;
 }
@@ -7,4 +7,10 @@ img {
 .recipe {
   display: flex;
   flex-direction: column;
+}
+
+.content-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
 }
